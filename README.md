@@ -9,4 +9,5 @@ A segunda melhor solução obtida foi de um modelo não linear (RandomForestClas
 
 Por fim, por se tratar de modelos com tomadas de decisão por diferentes análises, foi criado um Ensemble, ou seja, um modelo com os dois modelos acima combinados, cada um com sua contribuição para a decisão final.
 Dessa forma, foi obtido o modelo com melhor acurácia entre todos os testados: atingindo 84,21% de precisão.
-No arquivo solucaoexplicada em anexo, está disponível o passo a passo com explicação mais detalhada.
+
+No arquivo 'solucaoexplicada' em anexo, está disponível o passo a passo com explicação mais detalhada.
