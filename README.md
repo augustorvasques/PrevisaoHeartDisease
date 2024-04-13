@@ -7,6 +7,6 @@ A melhor solução obtida inincialmente foi de um modelo linear (LogisticRegress
 A segunda melhor solução obtida foi de um modelo não linear (RandomForestClassifier), que para entender melhor sua tomada de decisão foi plotado um gráfico da importância assumida por cada variável durante o processo de exploração.
 ![image](https://github.com/augustorvasques/PrevisaoHeartDisease/assets/166548437/782a8842-5706-4da1-a9dd-566ecfdfe5e4)
 
-Por fim, por se tratar de modelos com tomadas de decisão por diferentes análises, foi criado um Ensemble, ou seja, um modelo com os dois modelos acima combinados, cada um com sua contribuiçãopara a decisão final.
+Por fim, por se tratar de modelos com tomadas de decisão por diferentes análises, foi criado um Ensemble, ou seja, um modelo com os dois modelos acima combinados, cada um com sua contribuição para a decisão final.
 Dessa forma, foi obtido o modelo com melhor acurácia entre todos os testados: atingindo 84,21% de precisão.
 No arquivo solucaoexplicada em anexo, está disponível o passo a passo com explicação mais detalhada.
